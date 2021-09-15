@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Questions I would love recruiters ask me..."
 date:   2019-04-02 10:20:00 +0200
-moment: 21th April
+moment: 21th April, 2019
 categories: job
 permalink: /posts/5-questions
 bg: rails.jpg
@@ -25,5 +25,3 @@ I'm applying to developer jobs at the moment and in this post I'm making a state
 
 
 #5 What is your favorite website ?
-
-

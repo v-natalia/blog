@@ -2,10 +2,10 @@
 layout: post
 title:  "Lessons learnt while transitioning from Ruby to Python"
 date:   2019-05-20 09:22:08 +0200
-moment: 20th May
+moment: 20th May, 2019
 categories: programming
 permalink: /posts/lessons-Py
-bg: yougot.jpg
+bg: rails.jpg
 ---
 
 
@@ -34,6 +34,3 @@ But first, a dictionary is like this:
 - So, in a dictionary a key can appear only once. If it appears a second time, then you will be reassigning it.
 - A dictionary key must be of an inmutable type, like... strings, also integers, floats or booleans are inmutables in Python. But lists, they are not inmutables, so you can not do something like this:
 `dictionary = {[key1, key2]: 'value1', [key3, key4]: 'value2'}`
-
-
-

@@ -2,7 +2,7 @@
 layout: post
 title:  "3 things that inspire me"
 date:   2019-04-27 23:03:03 +0200
-moment: 27th April
+moment: 27th April, 2019
 categories: inspiration
 permalink: /posts/3-things
 bg: diff.jpg
@@ -34,5 +34,3 @@ Some highlights:
 - "Vulnerability is the birthplace of innovation, creativity and change."
 - "Shame, for women, is this web of unobtainable, conflicting, competing expectations about who we're supposed to be."
 - "If you put shame in a Petri dish, it needs three things to grow exponentially: secrecy, silence and judgment. If you put the same amount in a Petri dish and douse it with empathy, it can't survive."
-
-
